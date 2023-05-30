@@ -1,5 +1,6 @@
 # weather-web
 **Getting Started:**
+
 run npm i to install modules
 
 run npm run dev to run the server
